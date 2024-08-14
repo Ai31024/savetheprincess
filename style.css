@@ -25,3 +25,17 @@
 body {
   background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
 }
+
+.eb-garamond-heading {
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.eb-garamond-paragraph {
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
