@@ -23,9 +23,5 @@
 }
 
 body {
-    background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
-}
-
-.myButton {
-    
+  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
 }
