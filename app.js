@@ -4,4 +4,5 @@ var button = document.getElementById("myButton");
 button.addEventListener("click", function () {
   myParagraph.textContent = "You have freed the Princess, She says Thank you!";
   myPrincess.src = "./media/free_princess.jpeg";
+  button.textContent = "Yay!";
 });
